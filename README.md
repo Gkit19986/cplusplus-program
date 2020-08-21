@@ -1,3 +1,2 @@
 # cplusplus-program
 
-This project was a demonstration of a saving calculator. The primary goal was to show an individual the residual value and its increase over a period of time. I was able to decipher the variables, and assign values( interest year, starting investment amount, number of years to invest.  I believe my code was sufficient, it may have had a few loops, but overall, it was straightforward and easy to follow. This is a real-life example of how saving money over a period of time makes a significant difference. It could teach individuals the value of saving money and plan for the future, for a big purchase. 
